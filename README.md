@@ -14,15 +14,15 @@ Links list consist of Nodes and a pointer
 
 Node has a value or data and a pointer which points to the next Node it connects to
 
-## 1. Single Linked List
+## a. Single Linked List
 
 
 Singly linked lists contain nodes which have a data field as well as 'next' field, which points to the next node in line of nodes. Operations that can be performed on singly linked lists include insertion, deletion and traversal.
 
-## 2. Double Linked List
+## b . Double Linked List
 # 3. Stack
 # 4. Queue
 # 5. Tree
-## - Binary Tree 
-## - Binary search tree (BST)
+## a .Binary Tree 
+## b. Binary search tree (BST)
 
