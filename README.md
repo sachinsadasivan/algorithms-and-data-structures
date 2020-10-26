@@ -35,6 +35,12 @@ Below is the Big O notation performance metrics for Binary tree
 -----------------------------------
 
 
+| Acees         | Search        | Insert  |  Delete |
+| ------------- |:-------------:| -------:| -------:|
+| O(n)     | O(n) | O(1)   | O(1)    |
+
+
+
 # 3. Stack
 
 A stack is a data type that serves as a collection of elements which are placed one on top of other, like a stack of plates. 
