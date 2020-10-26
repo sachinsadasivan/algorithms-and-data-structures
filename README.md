@@ -86,7 +86,7 @@ It can be a child node, or it can be both a parent and a child at the same time.
 Trees are very familiar to us in the real world like we’re born into a family tree with ancestors and descendants branching out.
 Binary trees are a specific type of tree data structure. Binary trees start with a root node and then can contain up to two child nodes, a left and a right. The binary name refers to how the child nodes are limited to two nodes. There’s no limit to how deep the tree hierarchical nodes can go. The real advantage of using a binary tree comes down to how data is added and stored into the tree.
 
-## Performance of Stack
+## Performance of Binary Tree
 
 Below is the Big O notation performance metrics for Binary Tree
 
