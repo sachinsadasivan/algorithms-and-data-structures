@@ -26,14 +26,7 @@ Doubly linked list is a linked data structure that consists of a set of sequenti
 
 ## Performance of Linked List
 
-Below is the Big O notation performance metrics for Binary tree
- 
------------------------------------
-  Access  Search  Insert  Delete  
------------------------------------
-  O(n)    O(n)     O(1)    O(1)    
------------------------------------
-
+Below is the Big O notation performance metrics for Linked List
 
 | Acees         | Search        | Insert  |  Delete |
 | ------------- |:-------------:| -------:| -------:|
@@ -56,6 +49,13 @@ pop removes the most recently item from the stack.
 
 ## Performance of Stack
 
+Below is the Big O notation performance metrics for Stack
+
+| Acees         | Search        | Insert  |  Delete |
+| ------------- |:-------------:| -------:| -------:|
+| O(n)     | O(n) | O(1)   | O(1)    |
+
+
 # 4. Queue
 
 A queue is a collection of items that are maintained in a liner sequence. Items can be added only at one end of the sequence and items can be removed only from the other end of the sequence.
@@ -69,6 +69,13 @@ Other operations may also be allowed, often including a peek or front operation 
 The operations of a queue make it a first-in-first-out (FIFO) data structure. In a FIFO data structure, the first element added to the queue will be the first one to be removed.
 This is equivalent to the requirement that once a new element is added, all elements that were added before have to be removed before the new element can be removed.
 
+## Performance of Queue
+
+Below is the Big O notation performance metrics for Queue
+
+| Acees         | Search        | Insert  |  Delete |
+| ------------- |:-------------:| -------:| -------:|
+| O(n)     | O(n) | O(1)   | O(1)    |
 
 # 5. Tree
 
@@ -79,6 +86,11 @@ It can be a child node, or it can be both a parent and a child at the same time.
 Trees are very familiar to us in the real world like we’re born into a family tree with ancestors and descendants branching out.
 Binary trees are a specific type of tree data structure. Binary trees start with a root node and then can contain up to two child nodes, a left and a right. The binary name refers to how the child nodes are limited to two nodes. There’s no limit to how deep the tree hierarchical nodes can go. The real advantage of using a binary tree comes down to how data is added and stored into the tree.
 
-## a .Binary Tree 
-## b. Binary search tree (BST)
+## Performance of Stack
+
+Below is the Big O notation performance metrics for Binary Tree
+
+| Acees         | Search        | Insert  |  Delete |
+| ------------- |:-------------:| -------:| -------:|
+| O(log n)     | O(log n) |O(log n)   | O(log n)    |
 
