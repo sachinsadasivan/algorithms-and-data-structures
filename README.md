@@ -32,7 +32,7 @@ Below is the Big O notation performance metrics for Linked List
 | ------------- |:-------------:| -------:| -------:|
 | O(n)     | O(n) | O(1)   | O(1)    |
 
-
+Accessing and searching elements in Linked list will scale linearly while insert and delete a linked list is constant in terms of time complexity even if the number of elements in the linked list increases considerably.
 
 # 3. Stack
 
@@ -55,6 +55,7 @@ Below is the Big O notation performance metrics for Stack
 | ------------- |:-------------:| -------:| -------:|
 | O(n)     | O(n) | O(1)   | O(1)    |
 
+Accessing and searching elements in Stack will scale linearly as well. Inserting and deleting items in a stack is constant in terms of time complexity even if the number of elements in the linked list increases considerably.
 
 # 4. Queue
 
@@ -77,6 +78,8 @@ Below is the Big O notation performance metrics for Queue
 | ------------- |:-------------:| -------:| -------:|
 | O(n)     | O(n) | O(1)   | O(1)    |
 
+Accessing and searching elements in Queue will scale linearly. Inserting and deleting items in a Queue is constant in terms of time complexity even if the number of elements in the linked list increases considerably.
+
 # 5. Tree
 
 Tree data structures look like tree structures. Trees are hierarchical in nature.
@@ -94,3 +97,5 @@ Below is the Big O notation performance metrics for Binary Tree
 | ------------- |:-------------:| -------:| -------:|
 | O(log n)     | O(log n) |O(log n)   | O(log n)    |
 
+As you can see, all the four operation on a binary tree has same O(log n) rate of performance making it a great choice to store, search, access and delete data efficiently.
+Good performance comes at a cost though because coding a binary tree is one of the more complex data structures.
