@@ -7,7 +7,7 @@ class BinaryTreeTestApp(object):
         self.binary_tree = BinaryTree()
         pass
 
-    def say(self):
+    def create_and_display(self):
         self.binary_tree.add_item(10)
         print(self.binary_tree.get_size())
         self.binary_tree.add_item(20)
@@ -17,4 +17,4 @@ class BinaryTreeTestApp(object):
 
 
 binary_tree_test_app = BinaryTreeTestApp()
-binary_tree_test_app.say()
+binary_tree_test_app.create_and_display()
