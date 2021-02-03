@@ -27,10 +27,3 @@ class Node(object):
 
     def set_parent(self, item):
         self.parent = item
-
-
-
-
-
-
-
